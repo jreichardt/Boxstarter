@@ -1,0 +1,17 @@
+Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -showFileExtensions
+Enable-RemoteDesktop
+ 
+cinst 7zip
+cinst curl
+cinst cmdermini.portable
+cinst dotPeek
+cinst mRemoteNG
+cinst notepadplusplus
+cinst fiddler4
+cinst winmerge
+cinst dropbox
+cinst skype
+cinst sysinternals
+cinst vlc
+cinst wget
+cinst atom
