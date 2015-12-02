@@ -3,7 +3,7 @@ Enable-RemoteDesktop
  
 cinst 7zip
 cinst curl
-cinst cmdermini.portable
+cinst cmder -pre
 cinst dotPeek
 cinst mRemoteNG
 cinst notepadplusplus
@@ -15,3 +15,7 @@ cinst sysinternals
 cinst vlc
 cinst wget
 cinst atom
+cinst visualstudiocode
+cinst greenshot
+cinst google-chrome-x64
+
