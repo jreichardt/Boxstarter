@@ -18,4 +18,5 @@ cinst atom
 cinst visualstudiocode
 cinst greenshot
 cinst google-chrome-x64
+cinst git
 
